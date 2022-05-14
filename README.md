@@ -19,9 +19,6 @@
 ![](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/css-%23239120.svg?&style=for-the-badge&logo=css3&logoColor=white)
 
-## Профиль в [Codewars](https://www.codewars.com/users/Lors.08) 
-[![](https://www.codewars.com/users/Lors.08/badges/large)](https://www.codewars.com/users/Lors.08)
-
 # Мои проекты
 
 требуется доработка
