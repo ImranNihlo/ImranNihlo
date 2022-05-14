@@ -1,70 +1,40 @@
-# Getting Started with Create React App
+# 👋 Добро пожаловать
+## Меня зовут Имран, Frontend-разработчик, пишу на стеке JavaScript - React - Redux
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Cтек технологий и инструментов 
 
-## Available Scripts
+![](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![](https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white)
+<img src="https://camo.githubusercontent.com/05fa5b49e5aed65571a782d2d5a857a463c6862ffea1a420aa076f4fe9edb895/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656475782d2d5468756e6b2d3233306633393f7374796c653d666c61742d737175617265266c6f676f3d5265647578266c6f676f436f6c6f723d666633393239" width="140" height="27"/>
 
-In the project directory, you can run:
+![](https://img.shields.io/badge/react_router%20-CA4245.svg?&style=for-the-badge&logo=react-router&logoColor=white)
+<img src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
+![](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
+<img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
+<img src="https://camo.githubusercontent.com/2c35078344be480c144d239355446838b6e63cfbbf650077a209262728ba3440/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d676974" width="100" height="27">
+<img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
+<img src="https://camo.githubusercontent.com/1f11106396efd0b619f5497783ec2c078946acdeb1cc5e872b07baf8af40baf8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50726574746965722d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7072657474696572" width="100" height="27">
+<img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" />
+![](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/css-%23239120.svg?&style=for-the-badge&logo=css3&logoColor=white)
 
-### `npm start`
+## Профиль в [Codewars](https://www.codewars.com/users/Lors.08) 
+[![](https://www.codewars.com/users/Lors.08/badges/large)](https://www.codewars.com/users/Lors.08)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# Мои проекты
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+требуется доработка
 
-### `npm test`
+### Верстки: 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+требуется доработка
 
-### `npm run build`
+# Тестовые задания, которые я выполнил:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+требуется доработка
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Связаться со мной
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+[![](https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white&&s=250)](https://t.me/ImranNihlo)
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
