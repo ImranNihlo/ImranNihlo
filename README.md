@@ -37,7 +37,10 @@
 
 ### Верстки: 
 
-требуется доработка
+* [CloudBudget](https://imrannihlo.github.io/CloudBudget/) 
+* [Afrianska](https://imrannihlo.github.io/afrianska/) 
+* [Prosecurse](https://imrannihlo.github.io/Prosecurse/)
+* [Gift](https://imrannihlo.github.io/Gift/)
 
 # Тестовые задания, которые я выполнил:
 
