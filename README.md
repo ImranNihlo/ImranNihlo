@@ -1,5 +1,5 @@
 # 👋 Добро пожаловать
-## Меня зовут Имран, Frontend-разработчик, пишу на стеке JavaScript - React - Redux
+## Frontend-разработчик, пишу на стеке JavaScript - React - Redux
 
 ## Cтек технологий и инструментов 
 
@@ -21,7 +21,19 @@
 
 # Мои проекты
 
-требуется доработка
+### Приложение чат: [Код](https://github.com/ImranNihlo/react-chat) | [Демо](https://protected-coast-80252.herokuapp.com/)
+
+* отправка сообщений / удаление сообщений / выбор контакта / информация о контакте / поиск по контактам и сообщениям
+* react / redux / react hooks / react-router-dom / react-transition-group / redux-logger / redux-thunk
+
+### Сайт для правозащитного комитета "Континенталь": [Код](https://github.com/ImranNihlo/Continental) | [Демо](https://pure-harbor-24422.herokuapp.com/)
+
+* react / react-router-dom / react-yandex-maps / bootstrap 
+
+### Приложение для практики: [Код](https://github.com/ImranNihlo/redux-thunk) | [Демо](https://sleepy-journey-97250.herokuapp.com/)
+
+* добавление галочки с изменением цвета / удаление блока  
+* react / redux / react-loading / react-redux / redux-logger / redux-thunk":
 
 ### Верстки: 
 
