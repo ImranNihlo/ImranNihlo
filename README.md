@@ -30,6 +30,9 @@
 
 * react / react-router-dom / react-yandex-maps / bootstrap 
 
+### Сайт по продаже электросамокатов: [Код](https://github.com/ImranNihlo/E-trans) | [Демо](https://imrannihlo.github.io/E-trans/)
+* модальное окно / адаптивная верстка для всех устройств
+
 ### Приложение для практики: [Код](https://github.com/ImranNihlo/redux-thunk) | [Демо](https://sleepy-journey-97250.herokuapp.com/)
 
 * добавление галочки с изменением цвета / удаление блока  
