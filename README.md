@@ -47,7 +47,7 @@
 
 # Тестовые задания, которые я выполнил:
 
-требуется доработка
+* Avito - [Код](https://github.com/ImranNihlo/avito-test) | [Демо](https://nameless-eyrie-80046.herokuapp.com/)
 
 ## Связаться со мной
 
