@@ -26,6 +26,11 @@
 * отправка сообщений / удаление сообщений / выбор контакта / информация о контакте / поиск по контактам и сообщениям
 * react / redux / react hooks / react-router-dom / react-transition-group / redux-logger / redux-thunk
 
+### Интернет-магазин по продаже игр: [Код](https://github.com/ImranNihlo/game-store) | [Демо](https://serene-mesa-36204.herokuapp.com/)
+
+* страница игры с подробным описанием / корзина / добвление товара в корзину / удаление товара из корзины / фильтр товаров по жанру
+* react / react-redux / redux-toolkit / react-router-dom / react-icons / react-scripts 
+
 ### Сайт для правозащитного комитета "Континенталь": [Код](https://github.com/ImranNihlo/Continental) | [Демо](https://pure-harbor-24422.herokuapp.com/)
 
 * react / react-router-dom / react-yandex-maps / bootstrap 
