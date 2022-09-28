@@ -26,6 +26,10 @@
 * отправка сообщений / удаление сообщений / выбор контакта / информация о контакте / поиск по контактам и сообщениям
 * react / redux / react hooks / react-router-dom / react-transition-group / redux-logger / redux-thunk
 
+### Лендинг: [Код](https://github.com/ImranNihlo/Assets) | [Демо](https://assets-iota-eight.vercel.app/)
+
+* адаптивная верстка под мобильные устройства
+
 ### Интернет-магазин по продаже игр: [Код](https://github.com/ImranNihlo/game-store) | [Демо](https://serene-mesa-36204.herokuapp.com/)
 
 * страница игры с подробным описанием / корзина / добвление товара в корзину / удаление товара из корзины / фильтр товаров по жанру
@@ -36,6 +40,7 @@
 * react / react-router-dom / react-yandex-maps / bootstrap 
 
 ### Сайт по продаже электросамокатов: [Код](https://github.com/ImranNihlo/E-trans) | [Демо](https://imrannihlo.github.io/E-trans/)
+
 * модальное окно / адаптивная верстка для всех устройств
 
 ### Приложение для практики: [Код](https://github.com/ImranNihlo/redux-thunk) | [Демо](https://sleepy-journey-97250.herokuapp.com/)
